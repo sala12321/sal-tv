@@ -23,7 +23,7 @@ const Header = () => {
             <Link to="/about" className="text-white hover:text-sports-red transition">About Us</Link>
             <Link to="/schedule" className="text-white hover:text-sports-red transition">Schedule</Link>
             <Link to="/channels" className="text-white hover:text-sports-red transition">24/7 Channels</Link>
-            <Link to="/donate" className="text-white hover:text-sports-red transition">Donate</Link>
+            {/* <Link to="/donate" className="text-white hover:text-sports-red transition">Donate</Link> */}
             <Link to="/contact" className="text-white hover:text-sports-red transition">Contact Us</Link>
           </nav>
           
@@ -47,7 +47,7 @@ const Header = () => {
             <li><Link to="/about" className="block text-white hover:text-sports-red transition" onClick={toggleMenu}>About Us</Link></li>
             <li><Link to="/schedule" className="block text-white hover:text-sports-red transition" onClick={toggleMenu}>Schedule</Link></li>
             <li><Link to="/channels" className="block text-white hover:text-sports-red transition" onClick={toggleMenu}>24/7 Channels</Link></li>
-            <li><Link to="/donate" className="block text-white hover:text-sports-red transition" onClick={toggleMenu}>Donate</Link></li>
+            {/* <li><Link to="/donate" className="block text-white hover:text-sports-red transition" onClick={toggleMenu}>Donate</Link></li> */}
             <li><Link to="/contact" className="block text-white hover:text-sports-red transition" onClick={toggleMenu}>Contact Us</Link></li>
           </ul>
         </nav>

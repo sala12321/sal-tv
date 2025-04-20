@@ -25,9 +25,9 @@ const Privacy = () => {
             </p> */}
             <ul className="list-disc pl-6 text-gray-300 mb-4">
               <li><b>Personal information</b> (e.g., name, email, IP address)</li>
-              <li><b>Usage data</b> such as browsing history or interaction logs</li>
+              <li><b>Device/browser details</b> such as browsing history or interaction logs</li>
+              <li><b>Usage analytics </b></li>
               <li><b>Cookies or tracking technologies</b></li>
-              <li><b>Device or location information</b></li>
             </ul>
 
             <h2 className="text-xl font-semibold text-white mt-6 mb-4">2. How We Use Your Information</h2>
