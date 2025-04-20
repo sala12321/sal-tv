@@ -20,11 +20,15 @@ const Privacy = () => {
             <p className="text-gray-300 mb-4">
             We do not collect, log, or retain any of the following:
             </p>
-            <p className="text-gray-300 mb-4">
-             <ul>
-              <li><b>Personal information (e.g., name, email, IP address).</b></li>
-             </ul>
-            </p>
+            {/* <p className="text-gray-300 mb-4">
+              Additionally, as you browse the site, we may collect information about the individual web pages that you view, what websites or search terms referred you to the site, and information about how you interact with the site.
+            </p> */}
+            <ul className="list-disc pl-6 text-gray-300 mb-4">
+              <li><b>Personal information</b> (e.g., name, email, IP address)</li>
+              <li><b>Usage data</b> such as browsing history or interaction logs</li>
+              <li><b>Cookies or tracking technologies</b></li>
+              <li><b>Device or location information</b></li>
+            </ul>
 
             <h2 className="text-xl font-semibold text-white mt-6 mb-4">2. How We Use Your Information</h2>
             <p className="text-gray-300 mb-4">
