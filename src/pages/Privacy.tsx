@@ -13,15 +13,17 @@ const Privacy = () => {
           
           <div className="prose prose-invert">
             <p className="text-gray-300 mb-4">
-              At SazTV, accessible from our website, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by SazTV and how we use it.
+            At SazTV, we value your privacy. Unlike most websites, we do not collect, store, or share any personal or usage data from our visitors. This policy explains how we uphold your privacy and what you can expect when using our website.
             </p>
 
-            <h2 className="text-xl font-semibold text-white mt-6 mb-4">1. Information We Collect</h2>
+            <h2 className="text-xl font-semibold text-white mt-6 mb-4">1. No Data Collection</h2>
             <p className="text-gray-300 mb-4">
-              When you visit our website, we may collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device.
+            We do not collect, log, or retain any of the following:
             </p>
             <p className="text-gray-300 mb-4">
-              Additionally, as you browse the site, we may collect information about the individual web pages that you view, what websites or search terms referred you to the site, and information about how you interact with the site.
+             <ul>
+              <li><b>Personal information (e.g., name, email, IP address).</b></li>
+             </ul>
             </p>
 
             <h2 className="text-xl font-semibold text-white mt-6 mb-4">2. How We Use Your Information</h2>
