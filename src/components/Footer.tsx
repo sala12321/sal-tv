@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-6 text-gray-400 text-center">
-          <p>&copy; 2025 SazTv. Made with &love; by <a><b>Salahadin</b></a></p>
+          <p>&copy; 2025 SazTv. Made with &hearts; by <a><b>Salahadin</b></a></p>
         </div>
       </div>
     </footer>
